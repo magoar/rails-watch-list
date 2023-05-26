@@ -9,4 +9,4 @@ development:
 
 test:
   <<: *default
-  database: rails-watch-list_test
+  database: rails-watch-list_testp
